@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinoKaspar
 - 👀 I’m interested in Design
-- 🌱 I’m currently learning Design
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Design
